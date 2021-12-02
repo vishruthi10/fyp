@@ -1,0 +1,54 @@
+.heading {
+    margin: auto;
+    padding-top: 7%;
+    padding-left: 5%;
+    text-align: left;
+  }
+  
+  .firstHeading {
+    font-family: 'Josefin Sans ', sans-serif;
+    font-size: 4rem;
+  
+  }
+  
+  .secondHeading {
+    color: #f7f7ee;
+    font-family: 'Abel', sans-serif;
+    font-size: 3rem;
+    margin-top: auto;
+  }
+  
+  .home-img{
+    padding-left: 3%;
+  }
+  
+  .features{
+    background-color: #f8f9fa;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+  }
+  
+  
+  .fa-icon{
+    color: #6c757d;
+    margin: 3%;
+  }
+  
+  .fa-icon:hover{
+    color: #212529;
+  }
+  
+  #categ{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+  }
+  
+  .categ-title{
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 2.5rem;
+    font-family: 'Julius Sans One', sans-serif;
+    padding-bottom: 3%;
+  }
